@@ -21,7 +21,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <zstd.h>
-#include <common/zstd_errors.h>
+#include <zstd_errors.h>
 
 #include "squashfs_fs.h"
 #include "zstd_wrapper.h"
